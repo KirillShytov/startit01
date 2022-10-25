@@ -113,7 +113,8 @@ h4{
 .links2{
     padding-top: 45px;
 }
-.mail1{
-    width: 17px;
-    height: 15px;
+.link2 > a > img { 
+    width: 20px; 
+    height: 20px; 
+    margin: 20px; 
 }
