@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto' ;
+    margin: 0 auto;
+}
+header{
+    background-color: #fff;
+    padding: 10px;
+}
+.form{
+    padding-bottom: 100px;
+}
+.wrapper,
+.wrapper1,
+.wrapper2,
+.wrapper3,
+.wrapper4{
+    width: 1000px;
+    margin: 0 auto;
+}
+.wrapper2,
+.wrapper3,
+.wrapper4{
+    padding-bottom: 60px;
+}
+.logo,
+.links{
+    width: 450px;
+    display: inline-block;
+}
+.links{
+    text-align: right;
+}
+.section1,
+.section4{
+    background-color: #FAC960;
+}
+main,
+footer{
+    text-align: center;
+}
+h1{
+    font-size: 44px;
+    line-height: 54px;
+    color: #8A6D2F;
+    font-style: normal;
+    font-weight: 400;
+    padding: 50px;
+}
+form{
+    font-size: 35px;
+    line-height: 50px;
+    font-weight: 400;
+    font-style: normal
+}
+#invite{
+    background: #a8863d;
+    color: #fff;
+    border-color: #a8863d;
+    box-shadow: none;
+    width: 240px;
+    height: 47px;
+}
+input[type=email]{
+    width: 560px;
+    height: 54px;
+    padding-left: 37px;
+}
+.section2,
+.section4{
+    padding-top: 70px;
+}
+.section3{
+    padding: 35px;
+ 
+}
+.section2{
+    background-color: #f2f2f2;
+}
+h2,
+h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.56);
+}
+p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 23px;
+    color: rgba(0, 0, 0, 0.4);    
+}
+h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 37px;
+    color: #8a6d2f;
+}
+#button{
+    width: 65px;
+    height: 23px;
+    background-color: #fff;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+.logo1{
+    font-size: 125px;
+    padding-top: 50px;
+}
+.links2{
+    padding-top: 45px;
+}
+.mail1{
+    width: 17px;
+    height: 15px;
+}
